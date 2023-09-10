@@ -9,7 +9,7 @@ I am a highly experienced backend engineer with 18 years of expertise in designi
 * 🖥 &nbsp; I really like automating things, it makes humans life easier
 * 💘 &nbsp; In love with Javascript at the moment
 
-#### 📫 Get in touch
+### 📫 Get in touch
 [![LinkedIn](assets/linkedin.svg?raw=true "LinkedIn")](https://www.linkedin.com/in/phyo-zin-wai-84589642/) [![GitHub](assets/github.svg?raw=true)](https://github.com/pzinwai) [![Twitter](assets/twitter.svg?raw=true)](https://twitter.com/pzinwai)
   
 
