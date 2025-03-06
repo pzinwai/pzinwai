@@ -1,6 +1,6 @@
 ### Hi! ![img](assets/hi.gif?raw=true "Hi"), I'm Phyo
 
-I am a highly experienced software engineer with 18 years of expertise in designing, developing, and maintaining robust and scalable solutions across web, desktop, and intranet platforms. My work spans a wide range of projects, including payment systems, e-commerce websites, kiosks, chatbots, and SaaS solutions.
+I am a highly experienced software engineer with over 20 years of experience in designing, developing, and maintaining robust and scalable solutions across web, desktop, and intranet platforms. My work spans a wide range of projects, including payment systems, e-commerce websites, kiosks, chatbots, and SaaS solutions.
 
 With a strong background in web development, I have built and optimized dynamic websites, backend services, and automation workflows. I specialize in developing scalable architectures, integrating APIs, and ensuring seamless user experiences. My expertise extends to performance optimization, security, and cloud-based deployments, enabling efficient and high-performing applications.
 
